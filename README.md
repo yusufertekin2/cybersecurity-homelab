@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybersecurity Home Lab
 
 ## About Me
@@ -13,3 +14,7 @@ Aspiring Cybersecurity Analyst focused on SOC, Network Security, and Threat Dete
 - Nmap
 - Wireshark
 - Linux
+=======
+# cybersecurity-homelab
+Home Lab
+>>>>>>> 5bda0cdabd65d1949994cb8ff3e382f717c02482
